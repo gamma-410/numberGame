@@ -1,5 +1,5 @@
 import stdio.h
-func int main (void)
+func int main void
 	var int num = 50
 	int i
 	int x 
